@@ -406,7 +406,7 @@ will be draggable.
 
 If you have a feature request, please add it as an issue or make a pull request.
 
-If you have a bug to report, please reproduce the bug in [WebpackBin](http://www.webpackbin.com/VymTE3zWG) to help
+If you have a bug to report, please reproduce the bug in [Codesandbox](https://www.codesandbox.io/) to help
 us easily isolate it.
 
 ## TODO List
